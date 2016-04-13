@@ -1,10 +1,10 @@
 {
-  "name": "",
-  "title": "",
-  "displayName": "",
+  "name": "N1-flat-black",
+  "title": "N1-flat-black",
+  "displayName": "N1-flat-black",
   "theme": "ui",
   "version": "0.1.0",
-  "description": "",
+  "description": "Simple flat black theme.",
   "license": "GPL-3.0",
   "engines": {
     "nylas": "*"
